@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Maria Lorenza
+# 👩🏻‍💻 Lorenza
 
 **`Técnica em Desenvolvimento de Sistemas || Programadora em React`**
 
