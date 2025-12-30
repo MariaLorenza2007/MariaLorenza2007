@@ -1,12 +1,18 @@
 # 👩🏻‍💻 Maria Lorenza
 
-**`Desenvolvedora Front-End`**
+**`Técnica em Desenvolvimento de Sistemas || Programadora em React`**
 
-Me chamo Maria Lorenza, tenho 18 anos e sou de Campo Grande, MS.
-Atualmente sou Desenvolvedora Front-End em formação, apaixonada por tecnologia,
-design e programação. 
-Atualmente, estou concluindo meu curso de Técnico em Desenvolvimento de Sistemas através do Senac.
-Já estagiei no CnPq como programadora de protótipos escolares usando o arduíno e também estagiei na Compass UOL, como desenvolvedora em Front-End.
+👩🏻‍💻 Técnica em Desenvolvimento de Sistemas | Desenvolvedora Front-end (React, TypeScript, HTML, CSS & JavaScript) | Experiência em Back-end com C | Python
+
+🎓 Formação:
+Formada em Técnico em Desenvolvimento de Sistemas pelo Senac.
+
+💻 Experiências: Atuei como desenvolvedora back-end no CNPq, utilizando a linguagem C, contribuindo para soluções eficientes e estruturadas com arduíno.
+Também atuei como desenvolvedora front-end na Compass UOL, trabalhando com HTML, CSS, React e TypeScript, focando em interfaces modernas, responsivas e alinhadas às boas práticas de desenvolvimento.
+Tenho interesse contínuo em aprendizado, crescimento profissional e em colaborar com equipes de tecnologia em projetos desafiadores.
+
+🌐 Fluente em Inglês | Intérprete de Libras
+
 <p >
         <img 
             alt="youtube views" 
