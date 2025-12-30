@@ -105,12 +105,3 @@ Tenho interesse contínuo em aprendizado, crescimento profissional e em colabora
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-
-
- ![Maria Lorenza GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaLorenza&show_icons=true&theme=dracula&locale=pt-br)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-.
